@@ -19,7 +19,7 @@ void main()
     {
      printf("%d",buffer);
      printf("Bucket Full\n");
-     exit(1);
+     break;
     }
     else
     {
